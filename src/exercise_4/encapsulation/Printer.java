@@ -1,4 +1,4 @@
-package exercise_4.composition.encapsulation;
+package exercise_4.encapsulation;
 
 public class Printer {
     private int tonerLevel;
